@@ -2,11 +2,11 @@
   "city": "Marrakech",
   "source": "https://www.syndicat-pharmaciens-marrakech.com/ar/pharmacies-de-garde-marrakech",
   "nightSource": "https://www.syndicat-pharmaciens-marrakech.com/ar/pharmacies-de-garde-marrakech-nuit",
-  "dayFrom": "2026-11-14",
-  "dayTo": "2026-11-20",
+  "dayFrom": "2026-11-21",
+  "dayTo": "2026-11-27",
   "dayHours": "من 9 صباحا إلى 10 ليلا",
-  "nightFrom": "2026-11-14",
-  "nightTo": "2026-11-20",
+  "nightFrom": "2026-11-21",
+  "nightTo": "2026-11-27",
   "nightHours": "من 10 ليلا إلى 9 صباحا",
   "night": [
     {
@@ -22,7 +22,7 @@
       "count": 3
     },
     {
-      "district": "حي الفضل",
+      "district": "حي دار السعادة",
       "count": 1
     },
     {
@@ -56,220 +56,220 @@
   ],
   "pharmacies": [
     {
-      "name": "Koutoubia",
+      "name": "Al Kasbah",
       "district": "المدينة",
-      "address": "Av. Fatima Zohra R’mila",
-      "phone": "0524-38-10-72",
-      "lat": 31.627366,
-      "lng": -7.993468
+      "address": "Ksibt Nhass, 33-34 Trik Sahrij Gnawa Kasbah",
+      "phone": "0524-37-67-78",
+      "lat": 31.615569,
+      "lng": -7.987049
     },
     {
-      "name": "Santé Et Bien-Être",
+      "name": "Derb Dabachi",
       "district": "المدينة",
-      "address": "Route de l'Aéroport, charige Labgar, à côté de la Clinique Internationale de Marrakech",
-      "phone": "0524-37-89-18",
-      "lat": 31.613051,
-      "lng": -7.997133
+      "address": "54, Derb Dabachi Souika Médina",
+      "phone": "0524-42-68-34",
+      "lat": 31.62756,
+      "lng": -7.985991
     },
     {
-      "name": "L’Hôpital Militaire",
+      "name": "Bassatine Gueliz",
       "district": "جليز الكبير",
-      "address": "3, prolongement de l’Avenue Mohamed VI vers l’Hôpital Militaire et à côté de l’Ecole El Hilali",
-      "phone": "0524-44-93-16",
-      "lat": 31.636489,
-      "lng": -8.020365
+      "address": "Les Portes de Guéliz 2ème tranche en face de l'école Ajial saida, Imm. A1 GH8 Magasin n°4",
+      "phone": "0525-19-35-57",
+      "lat": 31.6477969,
+      "lng": -8.0379395
     },
     {
-      "name": "La Grande Pharmacie Attawhid",
+      "name": "Avicenne",
       "district": "جليز الكبير",
-      "address": "Résidence Attawhid, Hay Mabrouka devant le rond-point du Grand Jardin",
-      "phone": "0524-44-84-57",
-      "lat": 31.652182,
-      "lng": -8.036726
+      "address": "112, Av. Abdelkarim Khattabi près de Bejganni",
+      "phone": "0524-44-86-29",
+      "lat": 31.638546,
+      "lng": -8.017971
     },
     {
-      "name": "Mansoura",
+      "name": "Al Ahbass",
       "district": "جليز الكبير",
-      "address": "25, Av. Khalid Ben Walid Imm. Rachadi 150 m de l’Hôtel le Marrakech, vers les Sapeurs Pompiers",
-      "phone": "0524-43-46-46",
-      "lat": 31.63181,
-      "lng": -8.003311
+      "address": "10, Imm. Habouss Bab Doukkala",
+      "phone": "0524-43-21-83",
+      "lat": 31.634062,
+      "lng": -8.001674
     },
     {
-      "name": "Les Jardins De La Menara",
+      "name": "Sup De Co",
       "district": "جليز الكبير",
-      "address": "Face école Matar Askari (larmoud) direction trik taxi kbir douar laskar-médina, à côté Four Seasons Qt. Hivernage",
-      "phone": "0524-42-39-09",
-      "lat": 31.623032,
-      "lng": -8.025514
+      "address": "26, Av. Safi en face du Café Amine et près de Sup de Co",
+      "phone": "0524-42-33-33",
+      "lat": 31.652069,
+      "lng": -8.016742
     },
     {
-      "name": "Le 11 Janvier",
+      "name": "Allal El Fassi",
       "district": "الداوديات",
-      "address": "Bd. 11 Janvier, entre la Gare Routière Bab Doukkala et la Wilaya à côté de la Station Ifriquia",
-      "phone": "0524-44-74-70",
-      "lat": 31.64096,
-      "lng": -7.996686
+      "address": "37, fin Av. Allal Fassi, avant rang-point Marjane à côté du café Malizia Imm. ANHI",
+      "phone": "0524-31-00-59",
+      "lat": 31.664732,
+      "lng": -8.009341
     },
     {
-      "name": "Maniss",
+      "name": "Unité Quatre",
       "district": "الداوديات",
-      "address": "12, Merstane3 Merchich, près de la poste et Bocadiosse Chouaib et à côté Mosquée Al Anouar Allal Fassi",
-      "phone": "0524-30-13-27",
-      "lat": 31.657873,
-      "lng": -8.003212
+      "address": "450, au centre de l’Unité Quatre, devant l’école Aicha Oum al Mouminin et à côté de Mosquée l’Unité IV",
+      "phone": "0524-30-20-30",
+      "lat": 31.656124,
+      "lng": -7.99993
     },
     {
-      "name": "Plaza",
+      "name": "Rouidate",
       "district": "الداوديات",
-      "address": "Av. A.Khattabi, à 300m de Marjane Rte Casa vers Mac Do à côté de Mme. Plaza et derrière Maison SEAT Daoudiate",
-      "phone": "0525-34-90-12",
-      "lat": 31.663813,
-      "lng": -8.015311
+      "address": "Rouidate 21, Lot. Iguider entre Fac de Langue Arabe et Ecole Mimosa",
+      "phone": "0524-31-28-70",
+      "lat": 31.64686,
+      "lng": -8.00469
     },
     {
-      "name": "Jawhara",
+      "name": "Mammar An-Nakhil",
       "district": "الداوديات",
-      "address": "164, Sidi Abad 3, à 150m de la Patisserie Aymane vers l'école Zola à côté de la crèche l'enfantaisie et du café Pinokio",
-      "phone": "0524-30-74-18",
-      "lat": 31.657291,
-      "lng": -8.01308
+      "address": "336, Belbekkar 2 Hay El Mohamadi, à 280m de la Mosquée Belbekkar et à côté de Jet Sakane face Douar Guennoun",
+      "phone": "0524-30-78-76",
+      "lat": 31.66161,
+      "lng": -7.987383
     },
     {
-      "name": "Nakhil Saada",
+      "name": "Centrale Izdihar",
       "district": "حي الإزدهار",
-      "address": "A côté de Marjane (Rte de Casa), Dyar Annakhil derrière Mr. Bricolage et Peugeot",
-      "phone": "0524-29-29-37",
-      "lat": 31.6743781,
-      "lng": -8.010297
+      "address": "2, Résidence Espoir 4 Izdihar, Route de Safi, près de la Mosquée Sanawbar et en face de BIM Izdihar",
+      "phone": "0808-56-00-03",
+      "lat": 31.6684627,
+      "lng": -8.0295814
     },
     {
-      "name": "Majda",
+      "name": "Haj Boubker",
       "district": "سيدي غانم العزوزية",
-      "address": "Résidence Al Firdaous Lot. Tayssir Sidi Ghanem, près du Rond Point El Ayyachi derrière Station Total",
-      "phone": "0529-14-76-69",
-      "lat": 31.6798719,
-      "lng": -8.0463199
+      "address": "534, zone industrielle Sidi Ghanem secteur n°17, venant de Route de Safi 1èr feu rouge après le Pont tournez à gauche après Les Maitres du Pain 1ère à gauche à côté d'EuroPVC",
+      "phone": "0525-55-55-79",
+      "lat": 31.6668159,
+      "lng": -8.0448783
     },
     {
-      "name": "Jebli",
+      "name": "La Gare Routière",
       "district": "سيدي غانم العزوزية",
-      "address": "Résidence Bayti Sakan, près de la Banque Populaire en face de la Mosquée et Hammam Tribich et près de la Station Total et la nouvelle Gare Routière",
-      "phone": "0524-35-66-96",
-      "lat": 31.683484,
-      "lng": -8.069912
+      "address": "27, Op. Bab Al Borj Azzouzia (Route Afaq et Agadir, à 250m de Mosquée Tribich)",
+      "phone": "0524-35-66-93",
+      "lat": 31.6841669,
+      "lng": -8.075929
     },
     {
-      "name": "Ouhoud",
+      "name": "Salam",
       "district": "تاركة",
-      "address": "294, Lot. Masmoudi, avant l’école Ouhoud, route Sidi Dou Targa",
-      "phone": "0525-08-56-59",
-      "lat": 31.652532,
-      "lng": -8.050477
+      "address": "240, Targa Sidi M’Barek à 400m de Centrale Laitière, chemin des villas sofia prés de l'école palmiers sofia",
+      "phone": "0524-34-37-18",
+      "lat": 31.638116,
+      "lng": -8.043389
     },
     {
-      "name": "Lahmadi",
+      "name": "Coin De La Paix",
       "district": "الحي الحسني",
-      "address": "69, Massira I, en face de l'ancien Acima Massira (Marjane Market) et Decathlon Route Inara",
-      "phone": "0524-49-47-23",
-      "lat": 31.63861,
-      "lng": -8.058833
-    },
-    {
-      "name": "Doha Prestige",
-      "district": "الحي الحسني",
-      "address": "Imm. 35, Zone 30 tranche 10 Les Portes de Marrakech, près de la Mosquée Saad Ibn Mouad (en construction) en face de la crèche Petit Caillou, à 100m du Hammam Turc Spa Khmissa",
-      "phone": "0524-01-70-34",
+      "address": "au coeur de Souk Azli, près de la Mosquée Al Aziz Azli Nord",
+      "phone": "0525-31-19-44",
       "lat": null,
       "lng": null
     },
     {
-      "name": "Soukaina",
+      "name": "Al Manzah",
       "district": "الحي الحسني",
-      "address": "Douar Al Askar laqdim près de l'Ex. Pâtisserie Soukaina, vers la route de Lamhamid avant le Cimetière de 100m",
-      "phone": "0679-65-44-52",
+      "address": "500, Hay El Hassani Bloc 18 en face du grand dispensaire Joutiate Douar Laâskar",
+      "phone": "0524-49-65-91",
+      "lat": 31.630393,
+      "lng": -8.042045
+    },
+    {
+      "name": "El Ahd El Jadid",
+      "district": "الحي الحسني",
+      "address": "2028, près de Ferran Terrab Socoma I, derrière Douar Doukkali",
+      "phone": "0524-49-52-65",
+      "lat": 31.616144,
+      "lng": -8.058606
+    },
+    {
+      "name": "Doha Principale",
+      "district": "الحي الحسني",
+      "address": "Doha les Portes de Marrakech, dernier Rond-point à droite près du Terminus de Bus n°5 et entre Collège Fadoua Toukane et le nouveau Hammam Zerktouni",
+      "phone": "0525-19-44-64",
       "lat": null,
       "lng": null
     },
     {
-      "name": "El Janoub",
+      "name": "Al Inara",
       "district": "الحي الحسني",
-      "address": "15, Azli Sud derrière Lycée Mohamed 6 et collège Charif Idrissi, en face de l' I.T.A 1 et terminus 14 Alsa",
-      "phone": "0524-49-05-31",
-      "lat": 31.619195,
-      "lng": -8.052734
+      "address": "367, à côté de la mosquée Al Inara, Hay Inara",
+      "phone": "0524-34-55-81",
+      "lat": 31.640981,
+      "lng": -8.052577
     },
     {
-      "name": "El Abiad",
-      "district": "الحي الحسني",
-      "address": "286, Lot. Hassan II, près de la Résidence Bayt Al Kheir et de l'ecole Josseur Al Maarifa, en face de la Mosquée Al Khalil",
-      "phone": "0524-39-55-45",
-      "lat": 31.615487,
-      "lng": -8.068712
-    },
-    {
-      "name": "Tikida",
+      "name": "Al Kawtar",
       "district": "عين إيطي",
-      "address": "152, Rte de Meknès Aïn Itti en face de la BP et la RADEEMA et près de la Station Ifriquia",
-      "phone": "0524-32-83-23",
-      "lat": 31.645949,
-      "lng": -7.97842
+      "address": "C9, Lot. Kawtar El Fekhara Nakhil Sud à côté de la Mosquée Al Kawtar",
+      "phone": "0524-29-26-96",
+      "lat": 31.635876,
+      "lng": -7.976716
     },
     {
-      "name": "Borj Ennakhil",
+      "name": "Dar Tounsi",
       "district": "عين إيطي",
-      "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir",
-      "phone": "0524-32-97-89",
-      "lat": 31.648396,
-      "lng": -7.963016
+      "address": "66, Biout El Boun Rte de Meknès après Aïn Itti et en face de Villas Borj Ennakhil et près de METRO",
+      "phone": "0524-32-96-52",
+      "lat": 31.648667,
+      "lng": -7.952077
     },
     {
-      "name": "Chams Nakhil",
+      "name": "Lakhili",
       "district": "النخيل الجنوبي",
-      "address": "Lakhili Arset El Mellakh n°43, Marrakech Sud près du Centre de Santé Annakhil Route de Tallaght",
-      "phone": "0529-80-50-83",
-      "lat": 31.6117637,
-      "lng": -8.0161719
+      "address": "103, Lakhili à côté de Massi, Route de la forêt entre Souk R'bii et Atacadao Nakhil Sud",
+      "phone": "0701-41-02-41",
+      "lat": null,
+      "lng": null
     },
     {
-      "name": "Benfdil",
+      "name": "Agdal",
       "district": "سيدي يوسف",
-      "address": "A côté du Lycée Qualifiant Sidi Youssef Ben Ali, au milieu de la Résidence Bassatine Al Waha (ancien Douar El Mers)",
-      "phone": "0524-40-57-11",
+      "address": "Av. Essour en face du Cimetière SYBA près de Jerida et Cinéma Al Hilal",
+      "phone": "0524-40-29-21",
+      "lat": 31.620602,
+      "lng": -7.972223
+    },
+    {
+      "name": "Anass",
+      "district": "المحاميد",
+      "address": "Lot. Ibn Sina Maatallah près de la Salle de Sport Iron House",
+      "phone": "0703-74-97-17",
       "lat": null,
       "lng": null
     },
     {
-      "name": "Jardin Annahda",
+      "name": "Jardins Hay Chrifia",
       "district": "المحاميد",
-      "address": "350, Lot. Nahda Mhamid à côté du Frêt Aérien en face du Jardin Annahda (Jardin Al Matar)",
-      "phone": "0621-33-52-99",
-      "lat": null,
-      "lng": null
+      "address": "Rue des Ecoles, à côté de la Mosquée Al Houda (Al Amira) à Bouakkaz, en face de Hammam Walili Jardins Hay Chrifia",
+      "phone": "0524-20-21-75",
+      "lat": 31.58957237726613,
+      "lng": -8.021786842497052
     },
     {
-      "name": "De L’Équilibre",
+      "name": "Assafae",
       "district": "المحاميد",
-      "address": "Av. Guemssa Résidence Ain Raha projet Chaabi Lil Iskan Lamhamid",
-      "phone": "0525-61-54-60",
-      "lat": null,
-      "lng": null
+      "address": "Bloc 33, ancien M'hamid à côté de Librairie Bahcine et en face de L’école primaire Mohamed El Bakkal",
+      "phone": "0524-37-07-95",
+      "lat": 31.592294,
+      "lng": -8.038546
     },
     {
-      "name": "El Housna",
+      "name": "Achaab",
       "district": "المحاميد",
-      "address": "767, Lot. El Housna II, en face Lot. Ouirgane et à côté Arrondissement Askadjour",
-      "phone": "0524-36-08-30",
-      "lat": 31.592072,
-      "lng": -8.053515
-    },
-    {
-      "name": "Wahab",
-      "district": "المحاميد",
-      "address": "M'hamid 9, résidence Izdihar 3, Imm. 16 n°3 près d'Attijari Wafa Bank (Route Aït Imour-Guemmassa)",
-      "phone": "0524-37-37-69",
-      "lat": 31.579473,
-      "lng": -8.05772
+      "address": "541, Lot. Berradi 2 Mhamid 7 à 400m de la BP (Mhamid9) derrière Lot. Nassim et à côté de l'école El Maali",
+      "phone": "0524-37-36-49",
+      "lat": 31.585337,
+      "lng": -8.05901
     }
   ]
 }
