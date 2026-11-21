@@ -13,15 +13,28 @@ android {
         minSdk = 26
         // Google Play كيفرض target API جديد كل عام. شوف المطلوب فـ Play Console قبل النشر.
         targetSdk = 36
-        versionCode = 1
+        // كل بناء ديال release كياخد رقم أكبر أوتوماتيك (Google Play كيطلب versionCode يزيد فكل نسخة).
+        versionCode = (System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 1) + 100
         versionName = "1.0"
+    }
+
+    signingConfigs {
+        create("release") {
+            val path = System.getenv("KEYSTORE_PATH")
+            if (path != null) {
+                storeFile = file(path)
+                storePassword = System.getenv("KEYSTORE_PASSWORD")
+                keyAlias = System.getenv("KEY_ALIAS")
+                keyPassword = System.getenv("KEY_PASSWORD")
+            }
+        }
     }
 
     buildTypes {
         release {
-            isMinifyEnabled = true
-            isShrinkResources = true
-            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            // ما كنقلصوش الكود: التطبيق صغير، وهكا كنتفاداو شي خطأ ما كيبانش غير فنسخة release.
+            isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release").takeIf { System.getenv("KEYSTORE_PATH") != null }
         }
     }
     compileOptions {

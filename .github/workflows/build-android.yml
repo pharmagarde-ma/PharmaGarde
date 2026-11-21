@@ -19,6 +19,8 @@ jobs:
           gradle-version: "8.11.1"
       - name: Build debug APK
         run: gradle assembleDebug --no-daemon
+      - name: Check that the release bundle compiles (unsigned)
+        run: gradle bundleRelease --no-daemon
       - uses: actions/upload-artifact@v4
         with:
           name: pharmagarde-debug-apk
