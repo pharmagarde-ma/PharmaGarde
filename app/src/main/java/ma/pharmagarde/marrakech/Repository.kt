@@ -39,7 +39,7 @@ object Repository {
      * خليه فارغ باش التطبيق يخدم غير بالمعطيات اللي داخل الأبليكاسيون.
      * مثال: "https://example.ma/pharmacies/marrakech.json"
      */
-    const val REMOTE_URL = ""
+    const val REMOTE_URL = "https://raw.githubusercontent.com/pharmagarde-ma/PharmaGarde/main/data/marrakech.json"
 
     fun parse(text: String): Schedule {
         val o = JSONObject(text)

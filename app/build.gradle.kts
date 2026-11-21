@@ -6,13 +6,13 @@ plugins {
 
 android {
     namespace = "ma.pharmagarde.marrakech"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "ma.pharmagarde.marrakech"
         minSdk = 26
         // Google Play كيفرض target API جديد كل عام. شوف المطلوب فـ Play Console قبل النشر.
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
